@@ -1,7 +1,7 @@
 # trigonometric-calculator
 
-## desc
-eklenecek
+## Açıklama
+#eklenecek
 
 ## Pics
 ![resim1](https://media.discordapp.net/attachments/698162864363667480/911370826085965954/unknown.png?width=1143&height=630)
